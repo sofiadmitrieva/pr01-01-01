@@ -22,7 +22,7 @@ namespace pr01_01_01
   {
     static void Main(string[] args)
     {
-      Person p = new Person("Tony", "Allen", 32); Console.WriteLine(p);
+      Person p = new Person("Tony", "Allen ", 32); Console.WriteLine(p);
     }
   }
 }
