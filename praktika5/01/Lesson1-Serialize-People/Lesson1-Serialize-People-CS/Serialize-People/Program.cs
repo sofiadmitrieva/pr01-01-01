@@ -5,6 +5,8 @@ using System.IO;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 
+
+
 namespace Serialize_People
 {
     // A simple program that accepts a name, year, month date,
