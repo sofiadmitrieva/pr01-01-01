@@ -1,9 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-
+using System.Runtime.Serialization;
 namespace Serialize_People
 {
+  [Serializable]
     class Person
     {
         public string name;
